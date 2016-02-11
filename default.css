@@ -1,0 +1,52 @@
+h1{
+	font-family: Georgia, serif;
+	border-bottom: solid 1px;
+	letter-spacing: 1.4px;
+    font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+}
+h2{
+	font-family: Georgia, serif;
+	text-align: center;
+	letter-spacing: 1.2px;
+}
+h3{
+	font-family: Georgia, serif;
+	text-align: center;
+	letter-spacing: 1.2px;
+}
+h4{
+	font-family: Georgia, serif;
+	text-align: center;
+	letter-spacing: 1.2px;
+}
+img{
+	height: 30%;
+	width: 30%;
+	display: block;
+
+}
+p{
+    font-family: Verdana;
+    text-indent: 1em;
+    text-align: justify;
+    font-size: 11px;
+    color: #555555;
+    line-height: 1.5;
+    letter-spacing: .25px;
+}
+
+
+body{
+	background: lightblue;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+
+
+table{
+	font-weight: bold;
+	margin-right: auto;
+	margin-left: auto;
+}
