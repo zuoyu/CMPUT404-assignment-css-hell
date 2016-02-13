@@ -13,8 +13,7 @@ I set the table font-weight blod and margin-right and left as auto it will put i
 I set the blockquote and the p in side blickquote's font-size as 10px it iwll smaller then the normal p hence the reader know that it is quotation.
 I set the pre as color as grey and italic to let reader know that it is not the part of the article it just the writer's infor or something
 
-
-part2:
+You will skin 2 versions of a possible professional homepage for your self with 2 versions of CSS.
 
 Read requirements.org
 
