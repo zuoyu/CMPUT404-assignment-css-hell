@@ -1,5 +1,4 @@
 h1{
-	font-family: Georgia, serif;
 	border-bottom: solid 1px;
 	letter-spacing: 1.4px;
     font-weight: bold;
@@ -8,8 +7,10 @@ h1{
 }
 #body1{
 	color: white;
-	background-image: url("image/background.jpg");
+	
 	background-attachment: fixed;
+	background-image: url("image/background.jpg");
+
 }
 li{
 	margin: 0 0 5px 0;
@@ -29,12 +30,15 @@ img{
 }
 #div1 {
     width: 20%;
+
     height: auto;
     padding: 1px;
     border: 2px;
     float:left;
     box-sizing:border-box;
+
 }
+
 
 #div2 {
     height: auto;
@@ -44,7 +48,12 @@ img{
     box-sizing:border-box;
     background-color: white;
     background-image: url("image/background4.jpg");
+    background-size: cover;
     background-attachment: fixed;
+}
+#carousel-example-generic{
+	margin-right: 20%;
+	margin-left:20%;
 }
 
 p{
