@@ -29,17 +29,19 @@ img{
 }
 p{
     font-family: Verdana;
-    text-indent: 1em;
+    text-indent: 2em;
     text-align: justify;
-    font-size: 11px;
-    color: #555555;
+    font-size: 14px;
+    
     line-height: 1.5;
     letter-spacing: .25px;
 }
 
 
 body{
-	background: lightblue;
+	background-image: url("background1.jpg");
+	background-size: cover;
+	background-attachment: fixed;
 	margin-right: 100px;
 	margin-left: 100px;
 }
@@ -49,4 +51,18 @@ table{
 	font-weight: bold;
 	margin-right: auto;
 	margin-left: auto;
+}
+blockquote p{
+	font-size: 10px;
+	font-style: italic;
+	text-align: center;
+}
+blockquote{
+	font-size: 10px;
+	font-style: italic;
+	text-align: center;
+}
+pre{
+	color: #555555;
+	font-style: italic;
 }

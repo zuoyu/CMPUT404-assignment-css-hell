@@ -9,6 +9,7 @@ h1{
 #body1{
 	color: white;
 	background-image: url("image/background.jpg");
+	background-attachment: fixed;
 }
 li{
 	margin: 0 0 5px 0;
@@ -43,6 +44,7 @@ img{
     box-sizing:border-box;
     background-color: white;
     background-image: url("image/background4.jpg");
+    background-attachment: fixed;
 }
 
 p{
